@@ -4,9 +4,11 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Mission & Ministry"
+    url: /mission&ministry/
+  - title: "Partner with me"
+    url: /partnerwithme/
+  - title: "Contact"
+    url: /Contact/
+  - title: "Statement of Faith"
+    url: /statementoffaith/
